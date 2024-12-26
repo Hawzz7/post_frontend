@@ -20,7 +20,7 @@ This project is a web-based application that allows users to search for pincode 
    npm install
 3. Start the development server:
    ```
-   npm start
+   npm run dev
 4. Access the application: Open your browser and navigate to
    http://localhost:5173
 
