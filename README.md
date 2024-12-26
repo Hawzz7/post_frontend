@@ -35,7 +35,7 @@ frontend/
 ├── index.js               # Entry point for the frontend
 ├── index.css              # Stylesheet
 ```
-###Features
+### Features
 1. Search for pincode locations by code or name.
 2. Display results in a table with the following columns:
   * Name
