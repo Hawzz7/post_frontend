@@ -14,7 +14,7 @@ This project is a web-based application that allows users to search for pincode 
 1. Clone the repository:
    ```
    git clone https://github.com/Hawzz7/post_frontend.git
-   cd fronten
+   cd post_frontend
 2. Install dependencies:
    ```
    npm install
