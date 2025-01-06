@@ -31,7 +31,7 @@ frontend/
 ├── components/
 │   ├── SearchPage.jsx     # Component for searching pincode locations
 │   └── FavouritesPage.jsx # Component for viewing saved favourites
-├── App.jsx                # Mhttp://localhost:ain React app
+├── App.jsx                
 ├── main.jsx               # Entry point for the frontend
 ├── index.css              # Stylesheet
 ```
