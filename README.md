@@ -6,7 +6,6 @@ This project is a web-based application that allows users to search for pincode 
 ### Technologies Used :
 * React.js
 * Tailwind CSS
-* Bootstrap 5
 * Axios
 * React Router
 
